@@ -53,3 +53,11 @@ li{
 #victoria-shoes{
     background-color: #ff0000;
 }
+h1{
+    position:relative;
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+    bottom: 70px;
+
+}
